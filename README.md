@@ -1,4 +1,2 @@
-foodrecipes
-===========
+# A Collection of Food Recipes I Like
 
-Collection of food recipes I like
